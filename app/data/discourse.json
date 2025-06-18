@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939",
+    "content": "Please use gpt‑3.5‑turbo‑0125; gpt‑4o‑mini is not allowed here."
+  },
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959",
+    "content": "On the dashboard, a student scoring 10/10 plus bonus will see 110."
+  },
+  {
+    "url": "https://tds.s-anand.net/#/docker",
+    "content": "We support Podman for course labs, but you can also use Docker if that's your preference."
+  }
+]
